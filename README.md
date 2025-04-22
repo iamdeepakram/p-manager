@@ -39,6 +39,11 @@ A React-based project management application that provides intuitive interfaces 
 ### Running the Project
 
 ```bash
+# Install dependencies 
+npm i
+```
+
+```bash
 # Start the development server
 npm run dev
 ```
